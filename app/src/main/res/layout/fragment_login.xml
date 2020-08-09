@@ -83,7 +83,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="20dp"
         android:fontFamily="@font/architects_daughter"
-        android:text="No account? Create Now"
+        android:text="No account? Swipe Left To Create Now"
         android:textColor="@android:color/white"
         android:textSize="20sp" />
 

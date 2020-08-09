@@ -117,7 +117,7 @@
             android:layout_centerHorizontal="true"
             android:layout_marginBottom="20dp"
             android:fontFamily="@font/architects_daughter"
-            android:text="Already have account? Log in"
+            android:text="Already have account? Swipe Right To Log In"
             android:textColor="@android:color/white"
             android:textSize="20sp" />
 
